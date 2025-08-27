@@ -27,7 +27,7 @@ TEMPLATE = """
 <html>
 <head>
     <meta charset="utf-8">
-    <title>楽譜管理アプリ</title>
+    <title>吹奏楽部-譜面管理-</title>
     <style>
         body { background-color: #add8e6; font-family: Arial, sans-serif; margin: 20px; }
         h1 { color: #333; }
@@ -41,7 +41,7 @@ TEMPLATE = """
     </style>
 </head>
 <body>
-    <h1>楽譜管理アプリ</h1>
+    <h1>吹奏楽部-譜面管理-</h1>
 
     <h2>楽譜の追加</h2>
     <form method="POST" action="/add">
